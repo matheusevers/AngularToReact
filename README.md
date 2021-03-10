@@ -1,31 +1,18 @@
-## Angular Invoicing
+## Ploomes Challenge
 
-Use this extremely small and lightweight project built in Angular JS to build your one off Invoices. No monthly fees, No Subscriptions - No heavy duty features, Just simple invoices.
+This project is based on a challenge by Ploomes, to transform this [Angular Application](https://github.com/metaware/angular-invoicing) into React from scratch, without the
+usage of CRA or any other boilerplates.
 
 ## Usage
 
-Use this project here: [Angular Invoicing](http://metaware.github.io/angular-invoicing) or clone it and customize it to your hearts content.
-
-## Feature Requests
-
-Feel free to open any issues/pull requests if you have any feature requests.
+To run this project locally run the command `npm run serve` and to build the code `npm run build`
 
 ## Roadmap
 
-* Add Discounts feature
-* Add multiple currency support
-
-
-## Contributors
-
-* [Manpreet Singh](http://github.com/manpreetrules)
-* [Jasdeep Singh](http://jasdeep.ca)
-* [William Yaworsky](https://github.com/yaworsw)
-
-##Demo Link
-    http://metaware.github.io/angular-invoicing/
-
-
-## License
-
-No license restrictions, use it however and wherever you want - Commercial, Personal, Non-profit however you please. Just send us a quick note letting us know this project came handy and we'll be flattered. :)
+[x] Clone original repo
+[x] Initial React project setup with Webpack, babel and lint configuration
+[] Basic project organization in multiple containers
+[] Component building with unit tests
+[] State control with Redux
+[] Add Discounts feature
+[] Add coin convertion
