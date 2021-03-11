@@ -1,0 +1,17 @@
+.logo-display-grid {
+  text-align: right;
+}
+
+.logo-image {
+  width: 300px;
+}
+
+a {
+  color: #428bca;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.edit-logo-link {
+  margin-right: 4px;
+}

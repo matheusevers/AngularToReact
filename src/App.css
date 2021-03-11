@@ -1,0 +1,19 @@
+.page-container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+input:focus {
+  outline: 0;
+}
+
+input {
+  border: 1px solid #fff;
+}
+
+input:hover {
+  border: 1px solid #ccc;
+}

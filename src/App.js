@@ -1,10 +1,12 @@
 import React from "react";
+import HeaderContainer from "./containers/HeaderContainer/HeaderContainer.jsx";
+import "./App.css";
 
 const App = () => {
   return (
-    <>
-      <h1>Hello World</h1>
-    </>
+    <div className="page-container">
+      <HeaderContainer />
+    </div>
   );
 };
 
